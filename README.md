@@ -35,3 +35,8 @@ The application utilizes a comprehensive JSON dataset containing structured info
   "quick_total": 0,
   "fast_total": 4
 }
+
+🛠️ Tech Stack
+Frontend: HTML5, CSS3, JavaScript (ES6+)
+
+Data Format: JSON
