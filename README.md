@@ -1,4 +1,5 @@
 # ⚡ Hong Kong EV Charging Station Finder
+<img width="1625" height="1236" alt="image" src="https://github.com/user-attachments/assets/cf5ad7c2-5609-48c0-bd52-4c3802505b6d" />
 
 An interactive web application designed to help electric vehicle (EV) drivers find charging stations across various districts in Hong Kong.
 This tool maps out charger locations and categorizes them by charging speeds (Medium, Quick, and Fast) to make tracking down your next charge completely seamless.
