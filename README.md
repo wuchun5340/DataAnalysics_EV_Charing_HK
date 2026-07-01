@@ -18,6 +18,7 @@ This tool maps out charger locations and categorizes them by charging speeds (Me
 
 ---
 🛠️ Tech Stack
+
 Frontend: HTML5, CSS3, JavaScript (ES6+)
 
 Data Format: JSON
