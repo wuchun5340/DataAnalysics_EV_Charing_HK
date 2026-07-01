@@ -17,7 +17,12 @@ This tool maps out charger locations and categorizes them by charging speeds (Me
 * **User-Friendly UI:** Simple HTML/CSS interface optimized for scannability and quick reference on the go.
 
 ---
+🛠️ Tech Stack
+Frontend: HTML5, CSS3, JavaScript (ES6+)
 
+Data Format: JSON
+
+---
 ## 📊 Dataset Overview
 
 The application utilizes a comprehensive JSON dataset containing structured information on government and private EV charging facilities.
@@ -36,7 +41,3 @@ The application utilizes a comprehensive JSON dataset containing structured info
   "fast_total": 4
 }
 
-🛠️ Tech Stack
-Frontend: HTML5, CSS3, JavaScript (ES6+)
-
-Data Format: JSON
